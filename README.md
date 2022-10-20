@@ -22,7 +22,7 @@ Under finner du tre forskjellige oppgaver du kan gjøre i Spline. Du kan fokuser
 
 
 ### Problemer❓ 🤔 🙋‍♂️
-Dersom du møter på problemer eller har noen spørsmål er det berre å ta tak i oss. I tillegg har Spline en fin Notion med dokumentasjon, tips og triks -  [docs.spline.design](https://docs.spline.design/). I tilegg finner du slidesene til presentasjonen over. 
+Dersom du møter på problemer eller har noen spørsmål er det berre å ta tak i oss. I tillegg har Spline en fin Notion med dokumentasjon, tips og triks -  [docs.spline.design](https://docs.spline.design/). Du finner også slidesene fra presentasjonen i denne mappen i repoet. 
 
 
 ### Bonus! 🎁
