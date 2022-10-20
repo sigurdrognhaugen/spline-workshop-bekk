@@ -16,9 +16,9 @@ For å gjennomføre workshopen må du lage en [Spline-konto](https://app.spline.
 ## Oppgaver 
 Under finner du tre forskjellige oppgaver du kan gjøre i Spline. Du kan fokusere på en valgfri, ta alle sammen eller gjøre noe helt annet. 
 
-- Oppgave 1: Lag en ball som ruller ☄️
-- Oppgave 2: Lag rommet/leiligheten din 🏠
-- Oppgave 3: Lag en abstrakt blob 💩
+- [Oppgave 1: Lag en ball som ruller ☄️](https://github.com/sigurdrognhaugen/spline-workshop-bekk/tree/main/oppgave1-ball)
+- [Oppgave 2: Lag rommet/leiligheten din 🏠](https://github.com/sigurdrognhaugen/spline-workshop-bekk/tree/main/oppgave2-lag-et-rom)
+- [Oppgave 3: Lag en abstrakt blob 💩](https://github.com/sigurdrognhaugen/spline-workshop-bekk/tree/main/oppgave3-blob)
 
 
 ### Problemer❓ 🤔 🙋‍♂️
@@ -26,4 +26,4 @@ Dersom du møter på problemer eller har noen spørsmål er det berre å ta tak 
 
 
 ### Bonus! 🎁
-Når du er fornøyd med figuren eller scenen du har laget, kan du prøve å eksportere den til en enkel React app. 
+Når du er fornøyd med figuren eller scenen du har laget, [kan du prøve å eksportere den til en enkel React app.](https://github.com/sigurdrognhaugen/spline-workshop-bekk/tree/main/putt-det-pa-webben) 
